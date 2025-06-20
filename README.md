@@ -1,8 +1,7 @@
 # Desafio de Xadrez - Nível Aventureiro
 
 ## Desenvolvido por:
-Hugo Nascimento  
-Curso: Análise e Desenvolvimento de Sistemas - Estácio  
+Hugo Nascimento | Matrícula: 202505245409 | Curso: Análise e Desenvolvimento de Sistemas - Estácio
 
 ## Objetivo:
 Implementar a movimentação da peça **Cavalo** no xadrez, simulando movimentos em formato **L**, com direção para **baixo e esquerda**, utilizando **loops aninhados**, conforme solicitado no **Nível Aventureiro**.
