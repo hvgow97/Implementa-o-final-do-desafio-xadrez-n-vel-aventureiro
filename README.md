@@ -1,4 +1,4 @@
-# Desafio de Xadrez - Nível Aventureiro
+# Projeto de Xadrez - Nível Aventureiro
 
 ## Desenvolvido por:
 Hugo Nascimento | Matrícula: 202505245409 | Curso: Análise e Desenvolvimento de Sistemas - Estácio
